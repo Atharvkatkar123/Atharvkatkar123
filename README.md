@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a data analyst , python programmer , sql and jupyter notbook user which have capabality to process acess and manipulate large amount of data and draw meaningful insights from that data and produce a proper visualiztion dashboards out of it using tools like Excel, Tableau, Power Bi, Blender, Altreyx also working on machince learning , python automation, image processing, generative ai
+Data Analyst skilled in Python, SQL, and Jupyter Notebook, with expertise in processing and analyzing large datasets to extract meaningful insights. Proficient in building data visualizations and dashboards using Excel, Tableau, and Power BI. Experienced in automation, machine learning, image processing, and generative AI. Also adept at tools like Blender and Alteryx for complex data workflows.
 
 
 ## 🌐 Socials:
