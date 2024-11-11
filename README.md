@@ -1,6 +1,7 @@
 # 💫 About Me:
 Data Analyst skilled in Python, SQL, and Jupyter Notebook, with expertise in processing and analyzing large datasets to extract meaningful insights. Proficient in building data visualizations and dashboards using Excel, Tableau, and Power BI. Experienced in automation, machine learning, image processing, and generative AI. Also adept at tools like Blender and Alteryx for complex data workflows and data tools
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharv-katkar-58ba75213/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Taskmasteris) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@K_atharv2002) 
 
